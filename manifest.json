@@ -1,0 +1,13 @@
+
+{
+      "short_name": "Conférences",
+      "name": "Conférences",
+      "icons": [
+          {
+              "src": "logo_mt_0_0",
+              "type": "image/png",
+              "sizes": "225x129"
+          }
+      ],
+      "start_url": "index.html"
+    }
